@@ -1,3 +1,11 @@
+
+# api_keys
+config.py
+
+# macOS related files
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
